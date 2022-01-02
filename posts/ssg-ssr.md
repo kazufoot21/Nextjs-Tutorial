@@ -1,5 +1,5 @@
 ---
-title: 'new year 2022 '
+title: 'After Vercel deploy '
 date: '2022-01-01'
 ---
 
